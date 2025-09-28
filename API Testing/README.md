@@ -1,4 +1,4 @@
-# 🔍 API Testing Practice
+#  API Testing Practice
 
 This folder may contains my **API testing practice projects**.  
 
